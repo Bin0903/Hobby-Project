@@ -1,0 +1,12 @@
+d:\documents\visual studio 2013\Projects\Animal\Animal\bin\Debug\Animal.exe.config
+d:\documents\visual studio 2013\Projects\Animal\Animal\bin\Debug\Animal.exe
+d:\documents\visual studio 2013\Projects\Animal\Animal\bin\Debug\Animal.pdb
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.MainForm.resources
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.exe
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.pdb
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.GoForm.resources
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.ModifyForm.resources
+d:\documents\visual studio 2013\Projects\Animal\Animal\obj\Debug\Animal.ResForm.resources
